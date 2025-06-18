@@ -121,16 +121,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 📬 Contact
 
-For collaboration, feedback, or support:
 
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-
-```
-
----
-
-Let me know if you’d like a version with clickable badges (e.g., Build Status, License, or Tech Stack), or if you're deploying it and need a section for deployment instructions (like on AWS, Heroku, etc.).
-```
