@@ -1,8 +1,3 @@
-Here’s your updated and comprehensive `README.md` file for **TravelGo**, now including the **MVP scope, social/business impact, core functionalities**, and **challenges**. It's clear, professional, and GitHub-friendly:
-
----
-
-````markdown
 # 🌍 TravelGo - A Cloud-Powered Real-Time Travel Booking Platform
 
 **TravelGo** is a modern, cloud-based travel platform designed to simplify travel planning by unifying search, comparison, and booking for various travel services. Whether it’s buses, hotels, or flights, TravelGo brings everything into one seamless interface with real-time availability and secure booking.
